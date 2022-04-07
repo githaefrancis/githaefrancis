@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning React
 - 👯 I’m looking to collaborate on Angular,Flask & Django projects.
 
-[![Francis GitHub stats](https://github-readme-stats.vercel.app/api?username=githaefrancis&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Francis GitHub stats](https://github-readme-stats.vercel.app/api?username=githaefrancis&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![Githae](https://github-readme-streak-stats.herokuapp.com?user=githaefrancis&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
+[![Githae](https://github-readme-streak-stats.herokuapp.com?user=githaefrancis&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
